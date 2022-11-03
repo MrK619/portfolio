@@ -1,5 +1,8 @@
 import * as React from "react";
-import "bootstrap/dist/css/bootstrap.css"
+import "bootstrap/dist/css/bootstrap.css";
+import { Link } from "gatsby";
+
+
 const IndexPage = () => {
   return (
     <main>
@@ -8,6 +11,7 @@ const IndexPage = () => {
         You can find me on GitHub:{" "}
         <a href="https://github.com/MrK619">https://github.com/MrK619</a>{" "}
       </p>
+      <Link href="/contact">Contact me</Link>
     </main>
   );
 };
