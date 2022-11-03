@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkkarthik=self.webpackChunkkarthik||[]).push([[678],{6558:function(e,t,n){n.r(t),n.d(t,{Head:function(){return u}});var r=n(7294);t.default=function(){return r.createElement("main",null,r.createElement("h1",null,"Karthik Ambani R"),r.createElement("p",null,"You can find me on GitHub:"," ",r.createElement("a",{href:"https://github.com/MrK619"},"https://github.com/MrK619")," "))};var u=function(){return r.createElement("title",null,"Karthik")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-a42077111e690336861e.js.map
