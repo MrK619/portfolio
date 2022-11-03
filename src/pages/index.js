@@ -1,5 +1,5 @@
 import * as React from "react";
-
+import "bootstrap/dist/css/bootstrap.css"
 const IndexPage = () => {
   return (
     <main>
@@ -14,4 +14,4 @@ const IndexPage = () => {
 
 export default IndexPage;
 
-export const Head = () => <title>Home Page</title>;
+export const Head = () => <title>Karthik</title>;
