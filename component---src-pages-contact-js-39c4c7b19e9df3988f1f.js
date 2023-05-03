@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkkarthik=self.webpackChunkkarthik||[]).push([[501],{5791:function(e,t,a){a.r(t);var l=a(7294),n=a(1883);t.default=()=>l.createElement("main",null,l.createElement("h1",null,"TBD"),l.createElement(n.rU,{to:"/"},"home"))}}]);
+//# sourceMappingURL=component---src-pages-contact-js-39c4c7b19e9df3988f1f.js.map
